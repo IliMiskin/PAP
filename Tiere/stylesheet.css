@@ -1,0 +1,878 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&display=swap');
+
+body{
+    background-color: #F7F9FA !important;
+}
+
+.navbar{
+    background-color: #ECF1F5 !important; ;
+
+
+}
+.navbar-nav{
+    color: #ecf1f5 !important;
+    margin-left: 380px;
+
+
+}
+.custom-control:checked {
+    background-color: #76B608;
+}
+
+.border-right {
+    border-right: 4px solid #786E5E !important;
+}
+.borders {
+    height: 180px;
+    border-left: 2px solid;
+    margin: 0;
+
+}
+.border-left {
+    border-left: 4px solid #786E5E !important;
+}
+body{
+    margin:0;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    text-align: left;
+
+}
+p{
+    font-family: Montserrat, cursive ;
+    font-size: 12px;
+
+}
+a{
+    font-family: 'Montserrat', cursive;
+    font-size: 15px;
+    color: #756B5B;
+}
+h1 {
+    font-family: 'Amatic SC', cursive;
+    font-size: 50px;
+    color: #756B5B;
+}
+h7{
+    font-family: Montserrat, cursive;
+    font-size: 25px;
+
+}
+h6{
+    margin-left: 210px;
+    font-family: "Amatic SC",cursive;
+    font-size: 25px;
+}
+
+
+p1{
+    font-family: 'Montserrat', cursive;
+    font-size: 12px;
+
+}
+
+p2{
+    font-family: 'Montserrat', cursive;
+    font-size: 15px;
+}
+
+p3 {
+    font-size: 14px;
+    font-family: Montserrat, cursive;
+}
+p8{
+    font-family: Montserrat,cursive;
+    font-size: 16px;
+
+}
+
+a1{
+    text-underline: #756B5B ;
+}
+.navbar-right{
+    text-align: center;
+
+}
+
+h3{
+    font-family: Montserrat, cursive;
+    font-size: 23px;
+    margin-bottom: 20px;
+}
+h2{
+    font-family: "Amatic SC" , cursive;
+    font-size: 50px;
+    margin-top: 20px;
+    margin-bottom: 80px;
+}
+
+h4{
+    font-family: "Montserrat" , cursive;
+    font-size: 15px;
+    background-color: white;
+
+}
+
+.card-1{
+    margin-top: 60px;
+    margin-bottom: 60px;
+    padding:15px;
+}
+
+.card-body-1 {
+    box-sizing: content-box;
+    padding-right: 210px;
+    padding-left: 50px;
+    padding-bottom: 40px;
+    height: 280px;
+    width: 280px;
+    background-color: #ecf1f5;
+
+
+}
+.card-text-1{
+    text-align:-webkit-center ;
+    margin-top: 20px;
+    margin-left:80px;
+    font-family: 'Montserrat', cursive;
+    font-size:  13px;
+    color:#756B5B;
+
+
+}
+
+.card-title-1{
+    font-family: 'Amatic SC', cursive;
+    font-size: 30px;
+    color:#756B5B;
+    padding-top: 40px;
+    margin-left: 100px;
+}
+
+
+.btn-primary-1{
+    margin-top: 30px;
+    margin-left:120px;
+    color:white;
+    background-color: #756B5B;
+
+
+}
+.btn-secondary{
+    margin-top: 40px;
+    margin-bottom: 60px;
+    margin-left:520px;
+    color:white;
+    background-color: #756B5B;
+    width:230px;
+}
+
+.container-marketing{
+
+    font-family: Amatic SC, cursive;
+}
+
+
+.dividerClass{
+    border-top-color:#756B5B;
+}
+
+
+.footer{
+    background-color:#ecf1f5;
+}
+.footer {
+
+    position: running(custom_ident);
+    left: 0;
+    bottom: 0;
+
+
+    background-color: #ecf1f5;
+    font-family: Montserrat, sans-serif;
+    color: #756B5B;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+.list-group1{
+    margin-top: 70px;
+
+}
+
+.img-fluid{
+    margin-bottom: 30px;
+}
+
+
+.fa-facebook-square{
+    padding-right: 15px;
+
+}
+.fa-instagram{
+    padding-right: 15px;
+}
+
+.fa-twitter-square{
+
+}
+
+
+.card-body-2 {
+    box-sizing: content-box;
+    padding-right: 210px;
+    padding-left: 50px;
+    padding-bottom: 40px;
+    height: 280px;
+    width: 280px;
+    background-color: #ecf1f5;
+
+}
+.card-2{
+    margin-top: 75px;
+    margin-bottom: 60px;
+    padding:15px;
+}
+.btn-primary-2 {
+    margin-top: 47px;
+    margin-left: 120px;
+    color: white;
+    background-color: #756B5B;
+}
+.container-fluid1 .btn {
+    position: absolute;
+    bottom: 20px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color:#786E5E;
+    color: white;
+    font-size: 16px;
+    padding: 12px 24px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.container-fluid1 .btn:hover {
+    background-color: black;
+}
+
+
+.img-overlay{
+    position: absolute;
+    text-align: center;
+
+}
+
+.input{
+    background-position: 10px 10px;
+    background-repeat: no-repeat;
+    width: 100%;
+    font-size: 16px;
+    padding: 12px 20px 12px 40px;
+    border: 1px solid #ddd;
+    margin-bottom: 12px;
+}
+
+.btn-success {
+    font-family: 'Montserrat', cursive;
+    background-color: #756B5B;
+    color: white;
+}
+
+.btn-primary-2 {
+    margin-top: 47px;
+    margin-left: 120px;
+    color: white;
+    background-color: #756B5B;
+}
+
+.card-img-top{
+    width: 230px;
+}
+
+.card-img-top56{
+    height: 178px;
+    width:232px ;
+}
+.card-img-top57{
+    height: 177px;
+    width: 232px;
+}
+.card-img-top58{
+    height: 173px;
+    width : 232px;
+}
+
+.card {
+    margin-top: 75px;
+    width: 300px;
+    height: 400px;
+    margin-right: 40px;
+    border-color: #F7F9FA;
+    background-color: #F7F9FA;
+    margin-bottom: 30px;
+
+}
+.btn-primary70{
+    margin-top:26px;
+    background-color: #786E5E;
+    border-color: #786E5E;
+    font-family: Montserrat , cursive;
+    font-size: 10px;
+    margin-left: 40px;
+    height: 20px;
+    width: 80px;
+    color: #F7F9FA;
+}
+
+.btn-primary56{
+    margin-top: 44px;
+    background-color: #786E5E;
+    border-color: #786E5E;
+    font-family: Montserrat , cursive;
+    font-size: 10px;
+    margin-left: 40px;
+    height: 20px;
+    width: 80px;
+    color: #F7F9FA;
+}
+.btn-primary57{
+    margin-top: 46px;
+    background-color: #786E5E;
+    border-color: #786E5E;
+    font-family: Montserrat , cursive;
+    font-size: 10px;
+    margin-left: 40px;
+    height: 20px;
+    width: 80px;
+    color: #F7F9FA;
+}
+
+.btn-primary58{
+    margin-top: 46px;
+    background-color: #786E5E;
+    border-color: #786E5E;
+    font-family: Montserrat , cursive;
+    font-size: 10px;
+    margin-left: 40px;
+    height: 20px;
+    width: 80px;
+    color: #F7F9FA;
+}
+.btn-primary59{
+    margin-top: 32px;
+    background-color: #786E5E;
+    border-color: #786E5E;
+    font-family: Montserrat , cursive;
+    font-size: 10px;
+    margin-left: 40px;
+    height: 20px;
+    width: 80px;
+    color: #F7F9FA;
+}
+.card75{
+    margin-bottom: 50px;
+    width: 300px;
+    height: 200px;
+    margin-right: 40px;
+    border-color: #F7F9FA;
+    margin-left: 5px;
+
+}
+.card-text56{
+    font-size: 15px;
+}
+.card-text57{
+    font-size:10px;
+}
+.card-body{
+    box-sizing: content-box;
+    padding-right:33px;
+    padding-bottom: 40px;
+    height: 155px;
+    width: 180px;
+    background-color: #ecf1f5;
+
+}
+
+.card-text{
+    text-align: justify;
+    font-family: Montserrat, cursive;
+    font-size: 10px;
+
+
+}
+
+.btn-primary{
+    background-color: #786E5E;
+    border-color: #786E5E;
+    font-family: Montserrat , cursive;
+    font-size: 10px;
+    margin-top: 25px;
+    margin-left: 40px;
+    height: 20px;
+    width: 80px;
+}
+
+.btn-secondary-2{
+    margin-top: 220px;
+    margin-bottom: 60px;
+    margin-left:560px;
+    color:white;
+    background-color: #756B5B;
+    width:230px;
+}
+
+.btn-sm{
+    margin-bottom: 20px;
+    margin-left: 90px;
+    padding-right: 30px;
+    color:white;
+    font-size: medium;
+    height: 35px;
+    width: 90px;
+    background-color: #756B5B;
+
+}
+.list-group-item-secondary3 {
+    width: 333px;
+    background-color: #D2B48C;
+    color: white;
+}
+
+.card-img-top-1 {
+    width: 570px;
+}
+
+.card-4{
+    background-color: #ECF1F5 ;
+    width: 570px;
+    height: 380px;
+    margin-top: 80px;
+
+}
+.card-block-4{
+    margin-bottom: 80px;
+    width: 560px;
+    height: 400px;
+
+}
+.card-text-4{
+
+    padding-left: 110px;
+    font-size: 15px;
+    text-align: -moz-center;
+    width: 350px;
+}
+.card-title-2{
+    font-family: "Amatic SC", cursive;
+    font-size: 50px;
+    padding-left:40px;
+    padding-top:80px;
+    padding-bottom: 40px;
+    background-color: #ecf1f5;
+}
+
+.card-5{
+    background-color: #ECF1F5 ;
+    width: 570px;
+    height: 372px;
+    margin-bottom: 120px;
+}
+.card-block-5{
+    width: 560px;
+    height: 400px;
+
+}
+
+.card-img-top-5{
+
+    width: 570px;
+    margin-right: 100px;
+    border-right: 400px;
+}
+
+.card-img-top-6 {
+
+    width: 180px;
+    margin-bottom: 20px;
+}
+.card-6{
+    width: 100px;
+
+}
+.card-body-11{
+    margin-top: 75px;
+    margin-bottom: 50px;
+}
+.card-text-11{
+    font-size: 14px;
+    margin-top: 120px;
+}
+
+.btn-primary-8 {
+    background-color: #786E5E;
+    margin-top: 10px;
+    margin-left: 380px;
+    color: white;
+}
+.btn-primary-10{
+    background-color: #786E5E;
+
+    margin-left: 387px;
+    color: white;
+}
+
+.card-img-7{
+    width: 200px;
+    margin-top: 50px;
+}
+.card-img-9{
+    margin-top: 80px;
+    margin-bottom: 20px;
+    width: 200px;
+
+}
+.card-body-7{
+    margin-top: 50px;
+    width: 400px;
+}
+.card-text-7{
+    font-size: 14px;
+    margin-top: 10px;
+}
+
+.button-3{
+    margin-top: 80px;
+
+}
+
+.list-group-item-secondary1-3{
+    margin-top: 50px;
+    background-color: #786E5E;
+    color: white;
+
+}
+
+.list-group-item-action-1{
+    margin-bottom: 80px;
+}
+.list-group-item-action-2{
+    margin-bottom: 3px;
+}
+.list-group-item-action-4{
+    margin-bottom: 3px;
+    margin-top:1px;
+    padding-right: 154px;
+}
+.list-group-item-secondary3-4{
+    margin-top: 50px;
+    padding-right: 150px;
+    background-color: #786E5E;
+    color: white;
+
+}
+
+
+.btn-primary-5{
+    margin-left: 690px;
+    background-color: #786E5E;
+    color: white;
+    font-family: Montserrat, cursive;
+    margin-bottom: 90px;
+}
+.fas{
+    margin-right: 20px;
+}
+.far{
+    margin-right: 24px;
+}
+
+.fab{
+    font-size: 35px;
+
+}
+.btn-primary-6{
+    background-color: #786E5E;
+    color: white;
+    margin-left: 360px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+.form-control{
+    margin-top: 5px;
+}
+
+.card-9{
+    background-color: #ecf1f5;
+    width: 550px;
+    height: 280px;
+    margin-left: 110px;
+    margin-bottom: 80px;
+    margin-top: 50px;
+}
+
+.card-body-9{
+    margin-top: 50px;
+    width: 500px;
+    height: 300px;
+}
+
+.card-10{
+    background-color: #ecf1f5;
+    width: 550px;
+    height: 280px;
+    margin-left: 0;
+    margin-top: 50px;
+    padding-bottom: 20px;
+}
+
+.card-body-10{
+    margin-top: 50px;
+    width: 500px;
+    height: 400px;
+
+}
+
+.card-title-9{
+    font-family: 'Amatic SC', cursive;
+    font-size: 45px;
+    color:#756B5B;
+    padding-top: 30px;
+    margin-left: 70px;
+
+}
+.card-text-9{
+    text-align: left  ;
+    margin-top: 20px;
+    margin-left:30px;
+    font-family: 'Montserrat', cursive;
+    font-size:  17px;
+    color:#756B5B;
+}
+
+
+.btn-primary-4{
+    background-color: #786E5E;
+    color: white;
+    margin-top: 30px;
+    margin-left: 440px;
+    margin-bottom: 20px;
+
+}
+
+.btn-primary-22{
+    background-color: #786E5E;
+    color: white;
+    margin-left: 440px;
+    border-bottom: 456789px;
+}
+
+.card-8{
+    height:450px;
+    width:900px;
+    background-color:white;
+    margin-top:80px;
+
+}
+
+
+.card-title-8{
+    text-align: left;
+    font-size: 40px;
+    font-family: Amatic SC, cursive;
+    font-weight: bold;
+    margin-top: 15px;
+    margin-left:150px;
+}
+.card-text-8{
+    font-size: 14px;
+    font-family: Montserrat, cursive;
+    margin-left: 150px;
+    padding-right: 10px;
+    text-align: left;
+    margin-top: 16px;
+    white-space:pre-line ;
+}
+
+.card-img-8{
+    margin-left: 50px;
+    margin-top: 80px;
+    margin-bottom: 10px;
+    width: 360px;
+}
+
+.btn-primary-3{
+    background-color: #786E5E;
+    color: white;
+    margin-left: 100px;
+
+}
+
+
+
+.btn-primary20{
+    color:white;
+    background-color: #786E5E;
+}
+.card23{
+    margin-top:0;
+    margin-bottom:0;
+
+    margin-left:215px;
+    background-color: #ecf1f5;
+    height:200px;
+
+}
+.card26{
+    margin-top:0;
+    margin-bottom:0;
+    margin-left:215px;
+    background-color: #ecf1f5;
+    height:200px;
+
+}
+
+.card27{
+    margin-top:0;
+    margin-bottom:0;
+    margin-left:230px;
+    background-color: #ecf1f5;
+    height:200px;
+}
+.card-img-23 {
+    width:280px;
+    height:200px;
+}
+
+.card-img-26{
+    width:280px;
+    height:200px;
+
+}
+.card-img-27{
+    width:280px;
+    height:200px;
+}
+
+
+
+#left-panel-link6{
+    margin-left:410px;
+    width:160px;
+    margin-bottom:450px;
+}
+#left-panel-link8{
+    margin-left:410px;
+    width:160px;
+    margin-bottom:20px;
+}
+#left-panel-link9 {
+    margin-left: 415px;
+    width: 160px;
+    margin-bottom: 20px;
+}
+
+.d-block{
+    margin-top: 35px;
+}
+
+.nav-pills{
+    margin-left: 100px;
+    background-color:#F7F9FA;
+}
+.card-text23{
+    margin-left: 150px;
+    font-size: 15px;
+    font-family: Montserrat, sans-serif;
+}
+.card-subtitle24{
+    margin-left: 150px;
+    font-size: 20px;
+    font-family: Montserrat, sans-serif;
+
+}
+.card-title32{
+    margin-left: 150px;
+    font-size: 20px;
+    font-family: Montserrat, sans-serif;
+
+}
+.card-text25{
+    margin-left: 150px;
+    font-size: 15px;
+    font-family: Montserrat, sans-serif;
+}
+.card-title32{
+    margin-left: 150px;
+    font-size: 20px;
+    font-family: Montserrat, sans-serif;
+
+}
+.card-text31{
+    margin-left: 150px;
+    font-size: 15px;
+    font-family: Montserrat, sans-serif;
+}
+.my-md-n4{
+    width:890px;
+    margin-left:230px;
+}
+.my-3{
+    width:1000px;
+    margin-left:100px;
+
+}
+.jumbotron{
+    background-color: #F7F9FA;
+
+}
+.display-4{
+    font-family:'Amatic SC',cursive;
+    font-size: 35px;
+    text-align: center;
+    font-weight:700;
+
+}
+.lead{
+    font-family: 'Montserrat',sans-serif;
+    font-size:medium;
+    font-weight: 700;
+    text-align:center;
+    white-space: pre-wrap;
+
+}
+
+.card56{
+    background-color: #F7F9FA ;
+    border-color:   #F7F9FA;
+
+}
+
+
+
+.vr {
+
+    margin-top: 30px;
+
+    height:530px;
+    margin-right:565px;
+    position: center;
+    background-color: #786E5E;
+    padding-right: 1px;
+
+}
+
+#Bestaetigen{
+    width:100px;
+    height: 30px;
+}
+#Bestaetigen2{
+    width:100px;
+    height:30px;
+}
